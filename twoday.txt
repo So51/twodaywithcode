@@ -1,0 +1,2 @@
+//This is My First code in js . 
+document.write ("مرحبًا بكم في عالم الجافا سكربت .")
