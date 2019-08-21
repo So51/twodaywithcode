@@ -1,5 +1,5 @@
 /*This is My First code in js . 
 and I need to write more comments :)
-document.write ("النص هنا لا يتم باعته لأنه داخل التعليقات ")
+document.write ("النص هنا لا يتم طباعته لأنه داخل التعليقات ")
 */
 document.write ("مرحبًا بكم في عالم الجافا سكربت .")
